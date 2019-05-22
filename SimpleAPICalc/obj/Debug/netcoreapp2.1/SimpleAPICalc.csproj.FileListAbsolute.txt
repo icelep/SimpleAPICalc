@@ -1,0 +1,14 @@
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\SimpleAPICalc.csproj.CoreCompileInputs.cache
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\SimpleAPICalc.AssemblyInfoInputs.cache
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\SimpleAPICalc.AssemblyInfo.cs
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\bin\Debug\netcoreapp2.1\SimpleAPICalc.deps.json
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\bin\Debug\netcoreapp2.1\SimpleAPICalc.runtimeconfig.json
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\bin\Debug\netcoreapp2.1\SimpleAPICalc.runtimeconfig.dev.json
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\bin\Debug\netcoreapp2.1\SimpleAPICalc.dll
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\bin\Debug\netcoreapp2.1\SimpleAPICalc.pdb
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\SimpleAPICalc.RazorAssemblyInfo.cache
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\SimpleAPICalc.RazorAssemblyInfo.cs
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\SimpleAPICalc.RazorTargetAssemblyInfo.cache
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\SimpleAPICalc.dll
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\SimpleAPICalc.pdb
+C:\Users\icele\source\repos\SimpleAPICalc\SimpleAPICalc\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
